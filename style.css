@@ -1,0 +1,22 @@
+.container{
+    background:lightblue;
+  }
+  h3{
+    text-align:center;
+  }
+  .name:after{
+    content:" *";
+    color:red;
+  }
+  .emailbox{
+    width:365px;
+  }
+  .comments{
+    width:100%;
+    height:100px;
+  }
+  .button{
+    width:80px;
+  }
+  
+  
